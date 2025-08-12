@@ -10,9 +10,9 @@ public class Conectar {
     private static final String DRIVER = "com.mysql.cj.jdbc.Driver";
 
     // Ajusta según la config
-private static final String USER = "rpmuser";
-private static final String PASSWORD = "12345678";
-private static final String HOST = "192.168.1.148";
+private static final String USER = "rpmuser1";
+private static final String PASSWORD = "2025passwdrpm115";
+private static final String HOST = "100.73.63.91";
 private static final String DB   = "bd_rpm_ori";
 
 private static final String URL =
