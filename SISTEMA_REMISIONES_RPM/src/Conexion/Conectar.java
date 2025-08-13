@@ -12,7 +12,7 @@ public class Conectar {
     // Ajusta según la config
 private static final String USER = "rpmuser1";
 private static final String PASSWORD = "2025passwdrpm115";
-private static final String HOST = "100.73.63.91";
+private static final String HOST = "100.100.70.86";
 private static final String DB   = "bd_rpm_ori";
 
 private static final String URL =
